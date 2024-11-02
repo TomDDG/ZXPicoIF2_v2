@@ -18,7 +18,7 @@ In order to accommodate the uSD Card reader I had to free up some GPIOs. To do t
 .wrap
 ````
 
-## Cicuit
+## Circuit
 
 ![image](./Images/IF2_v2.2.png "Circuit")
 
