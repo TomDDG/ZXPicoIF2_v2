@@ -18,9 +18,13 @@ In order to accommodate the uSD Card reader I had to free up some GPIOs. To do t
 .wrap
 ````
 
-## Gerber's
+## Cicuit
 
-v2.2 of the PCB is available here (./Gerbers/ZXPicoIF2_v2.2_2024-11-01.zip). Please note this is a WiP build and hasn't been fully tested yet.
+![image](./Images/IF2_v2.2.png "Circuit")
+
+## PCBs
+
+Gerber's for v2.2 of the PCB is available here (./Gerbers/ZXPicoIF2_v2.2_2024-11-01.zip). Please note this is a WiP build and hasn't been fully tested yet.
 
 ![image](./Gerbers/IF2_v2.2_top.png "PCB top")
 ![image](./Gerbers/IF2_v2.2_bottom.png "PCB bottom")
