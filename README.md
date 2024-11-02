@@ -57,4 +57,3 @@ Gerber's for v2.2 of the PCB is available here (./Gerbers/ZXPicoIF2_v2.2_2024-11
 
 ![image](./Gerbers/IF2_v2.2_top.png "PCB top")
 ![image](./Gerbers/IF2_v2.2_bottom.png "PCB bottom")
-
