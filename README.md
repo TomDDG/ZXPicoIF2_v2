@@ -4,7 +4,7 @@ Sinclair Interface 2 replacement including ROM Cartridge emulation using a Raspb
 
 ## Multiplexing
 
-In order to accommodate the uSD Card reader I had to free up some GPIOs. To do this I multiplexed A0-A7 so they are also D0-D7. This is possible as both busses sit behind bus transceivers which can be switched into high impedance. I then used the PiO to flip between input and output while also switch the two bus transceivers on and off.
+In order to accommodate the uSD Card reader I had to free up some GPIOs. To do this I multiplexed A0-A7 so they are also D0-D7. This is possible as both busses sit behind bus transceivers which can be switched into high impedance. I used the PiO to flip between input and output while also switching the two bus transceivers on and off.
 
 ````
 .program zxpicoif2
